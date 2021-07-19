@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /post/
+Allow: /archives/
+Allow: /about/
+Allow: /tags/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://www.chan.im/sitemap.xml
+Sitemap: https://www.chan.im/baidusitemap.xml
